@@ -1,2 +1,1 @@
-# coursera-course
-coursera-course
+Coursera HTML,CSS and JS for Web Developers by JHU solutions
